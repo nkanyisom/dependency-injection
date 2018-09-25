@@ -1,0 +1,10 @@
+/Users/McNkanyiso/design-patterns/dependency-injection/src/main/java/za/co/di_example/dependencyinjection/injector/SMSServiceInjector.java
+/Users/McNkanyiso/design-patterns/dependency-injection/src/main/java/za/co/di_example/dependencyinjection/injector/EmailServiceInjector.java
+/Users/McNkanyiso/design-patterns/dependency-injection/src/main/java/za/co/di_example/legacy/EmailService.java
+/Users/McNkanyiso/design-patterns/dependency-injection/src/main/java/za/co/di_example/dependencyinjection/service/SMSServiceImpl.java
+/Users/McNkanyiso/design-patterns/dependency-injection/src/main/java/za/co/di_example/dependencyinjection/consumer/Consumer.java
+/Users/McNkanyiso/design-patterns/dependency-injection/src/main/java/za/co/di_example/legacy/MyApplication.java
+/Users/McNkanyiso/design-patterns/dependency-injection/src/main/java/za/co/di_example/dependencyinjection/service/MessageService.java
+/Users/McNkanyiso/design-patterns/dependency-injection/src/main/java/za/co/di_example/dependencyinjection/service/EmailServiceImpl.java
+/Users/McNkanyiso/design-patterns/dependency-injection/src/main/java/za/co/di_example/dependencyinjection/consumer/MyDIApplication.java
+/Users/McNkanyiso/design-patterns/dependency-injection/src/main/java/za/co/di_example/dependencyinjection/injector/MessageServiceInjector.java

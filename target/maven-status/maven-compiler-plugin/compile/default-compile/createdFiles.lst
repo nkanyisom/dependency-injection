@@ -1,0 +1,10 @@
+za/co/di_example/dependencyinjection/service/EmailServiceImpl.class
+za/co/di_example/legacy/EmailService.class
+za/co/di_example/legacy/MyApplication.class
+za/co/di_example/dependencyinjection/consumer/Consumer.class
+za/co/di_example/dependencyinjection/injector/EmailServiceInjector.class
+za/co/di_example/dependencyinjection/service/MessageService.class
+za/co/di_example/dependencyinjection/consumer/MyDIApplication.class
+za/co/di_example/dependencyinjection/service/SMSServiceImpl.class
+za/co/di_example/dependencyinjection/injector/SMSServiceInjector.class
+za/co/di_example/dependencyinjection/injector/MessageServiceInjector.class
